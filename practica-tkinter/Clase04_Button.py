@@ -16,7 +16,7 @@ boton01.place(x=1,y=1)
 boton01.config(bg="red", fg="blue")
 boton01.config(fon=("consolas",16))
 
-imagen=PhotoImage(file="./sources/airbnb-brands.png")
+imagen=PhotoImage(file="../sources/airbnb-brands.png")
 
 button02=Button(miFrame,image=imagen,command=Saludar)
 button02.place(x=50,y=100)

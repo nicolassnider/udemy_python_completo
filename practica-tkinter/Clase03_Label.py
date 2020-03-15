@@ -16,7 +16,7 @@ label01.config(fon=("arial", 20))
 print(label01.cget('text'))
 print(label01.cget('fon'))
 
-image = PhotoImage(file="./sources/random.png")
+image = PhotoImage(file="../sources/random.png")
 image.zoom(x=50,y=50)
 label02 = Label(miFrame, image = image).place(x=50, y=50)
 ventana.mainloop()
