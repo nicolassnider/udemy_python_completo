@@ -1,5 +1,6 @@
-import sqlite3
 import json
+import sqlite3
+
 connect=sqlite3.connect("./DDBB/Ejemplo.db")
 
 cursor=connect.cursor()
