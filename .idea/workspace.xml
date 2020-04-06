@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81aa3699-3cc7-4413-bb6d-e34f72266c37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practica-tkinter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_sistema_tkinter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica_flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica_flask/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/SoulIT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/SoulIT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase01_Ventana.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica-tkinter/Clase01_Ventana.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase03_Label.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica-tkinter/Clase03_Label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clase04_Button.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica-tkinter/Clase04_Button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_database/dbConnectSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_database/dbConnectSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_sistema_tkinter/conexion_db/AlumnosDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_sistema_tkinter/conexion_db/AlumnosDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_sistema_tkinter/conexion_db/consultas_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_sistema_tkinter/conexion_db/consultas_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameAlumno.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameAlumno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameMateria.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameMateria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameProfesor.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_sistema_tkinter/vistas/frameProfesor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-udemy/ModulosPaquetes/Modulos/modulos/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-udemy/ModulosPaquetes/Modulos/modulos/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +60,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -65,7 +72,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -76,73 +84,7 @@
       <recent name="E:\Repos\udemy_python_completo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Clase08_Format">
-    <configuration name="Clase03_Label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="udemy_python_completo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase03_Label.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Clase04_Button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="udemy_python_completo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase04_Button.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Clase05_Entry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="udemy_python_completo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Clase05_Entry.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.index">
     <configuration name="Clase06_Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemy_python_completo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,13 +129,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practica_flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica_flask/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practica_sistema_tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica_sistema_tkinter/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_python_completo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practica_sistema_tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica_sistema_tkinter/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.Clase08_Format" />
         <item itemvalue="Python.Clase06_Grid" />
-        <item itemvalue="Python.Clase05_Entry" />
-        <item itemvalue="Python.Clase04_Button" />
-        <item itemvalue="Python.Clase03_Label" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +218,17 @@
       <workItem from="1583697993274" duration="13653000" />
       <workItem from="1583836347292" duration="2392000" />
       <workItem from="1584241849434" duration="244000" />
+      <workItem from="1584280987064" duration="199000" />
+      <workItem from="1584281444044" duration="7840000" />
+      <workItem from="1584391458597" duration="3752000" />
+      <workItem from="1584479084110" duration="7192000" />
+      <workItem from="1584653696276" duration="1421000" />
+      <workItem from="1584655173651" duration="11932000" />
+      <workItem from="1584752551070" duration="242000" />
+      <workItem from="1584752971634" duration="16442000" />
+      <workItem from="1585246767251" duration="9282000" />
+      <workItem from="1585331662652" duration="6433000" />
+      <workItem from="1585338139358" duration="599000" />
     </task>
     <servers />
   </component>
@@ -217,54 +236,74 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Inspections" timestamp="1584281612880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1584281612880" />
+    <state x="392" y="88" key="#SQL_Dialects" timestamp="1584763294635">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#SQL_Dialects/0.0.1600.860@0.0.1600.860" timestamp="1584763294635" />
     <state x="392" y="88" key="#Vim_Emulation" timestamp="1583708473081">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="88" key="#Vim_Emulation/0.0.1600.860@0.0.1600.860" timestamp="1583708473081" />
-    <state width="1877" height="221" key="GridCell.Tab.0.bottom" timestamp="1583842778109">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583719076129" />
-    <state width="1877" height="221" key="GridCell.Tab.0.bottom/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
-    <state width="1877" height="221" key="GridCell.Tab.0.center" timestamp="1583842778109">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583719076129" />
-    <state width="1877" height="221" key="GridCell.Tab.0.center/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
-    <state width="1877" height="221" key="GridCell.Tab.0.left" timestamp="1583842778109">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583719076129" />
-    <state width="1877" height="221" key="GridCell.Tab.0.left/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
-    <state width="1877" height="221" key="GridCell.Tab.0.right" timestamp="1583842778109">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583719076129" />
-    <state width="1877" height="221" key="GridCell.Tab.0.right/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
-    <state width="1340" height="256" key="GridCell.Tab.1.bottom" timestamp="1583748917449">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="256" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583709196201" />
-    <state width="1340" height="256" key="GridCell.Tab.1.bottom/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
-    <state width="1340" height="256" key="GridCell.Tab.1.center" timestamp="1583748917449">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="256" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583709196201" />
-    <state width="1340" height="256" key="GridCell.Tab.1.center/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
-    <state width="1340" height="256" key="GridCell.Tab.1.left" timestamp="1583748917449">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="256" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583709196201" />
-    <state width="1340" height="256" key="GridCell.Tab.1.left/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
-    <state width="1340" height="256" key="GridCell.Tab.1.right" timestamp="1583748917449">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="256" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583709196201" />
-    <state width="1340" height="256" key="GridCell.Tab.1.right/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
-    <state x="301" y="72" key="SettingsEditor" timestamp="1583708565140">
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584764275209">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583708565140" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584764275209" />
+    <state x="547" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584770410583">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="547" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1584770410583" />
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1584764258077">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584764258077" />
+    <state width="1557" height="173" key="GridCell.Tab.0.bottom" timestamp="1585338108220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="173" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585338108220" />
+    <state width="1877" height="221" key="GridCell.Tab.0.bottom/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
+    <state width="1557" height="173" key="GridCell.Tab.0.center" timestamp="1585338108219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="173" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585338108219" />
+    <state width="1877" height="221" key="GridCell.Tab.0.center/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
+    <state width="1557" height="173" key="GridCell.Tab.0.left" timestamp="1585338108219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="173" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585338108219" />
+    <state width="1877" height="221" key="GridCell.Tab.0.left/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
+    <state width="1557" height="173" key="GridCell.Tab.0.right" timestamp="1585338108219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="173" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585338108219" />
+    <state width="1877" height="221" key="GridCell.Tab.0.right/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583842778109" />
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom" timestamp="1584357163895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584357163895" />
+    <state width="1340" height="256" key="GridCell.Tab.1.bottom/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
+    <state width="1557" height="275" key="GridCell.Tab.1.center" timestamp="1584357163895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584357163895" />
+    <state width="1340" height="256" key="GridCell.Tab.1.center/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
+    <state width="1557" height="275" key="GridCell.Tab.1.left" timestamp="1584357163895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584357163895" />
+    <state width="1340" height="256" key="GridCell.Tab.1.left/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
+    <state width="1557" height="275" key="GridCell.Tab.1.right" timestamp="1584357163895">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584357163895" />
+    <state width="1340" height="256" key="GridCell.Tab.1.right/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748917449" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1584481701360">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584481701360" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583836350703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,17 +312,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/306.1080.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583748585448" />
-    <state x="456" y="87" width="670" height="676" key="search.everywhere.popup" timestamp="1583698897549">
+    <state x="456" y="87" width="672" height="676" key="search.everywhere.popup" timestamp="1584765640548">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="456" y="87" width="670" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583698897549" />
+    <state x="456" y="87" width="672" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584765640548" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udemy_python_completo$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1585337248343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practica_sistema_tkinter" />
+    <SUITE FILE_PATH="coverage/udemy_python_completo$index.coverage" NAME="index Coverage Results" MODIFIED="1585338078236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practica_flask" />
     <SUITE FILE_PATH="coverage/udemy_python_completo$Clase04_Button.coverage" NAME="Clase04_Button Coverage Results" MODIFIED="1583718605827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemy_python_completo$Clase03_Label.coverage" NAME="Clase03_Label Coverage Results" MODIFIED="1583710951295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/udemy_python_completo$Clase05_Entry.coverage" NAME="Clase05_Entry Coverage Results" MODIFIED="1583836435890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/udemy_python_completo$Clase06_Grid.coverage" NAME="Clase06_Grid Coverage Results" MODIFIED="1583837375483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/udemy_python_completo$Clase08_Format.coverage" NAME="Clase08_Format Coverage Results" MODIFIED="1583838139881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemy_python_completo$Clase08_Format.coverage" NAME="Clase08_Format Coverage Results" MODIFIED="1584281123758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemy_python_completo$main.coverage" NAME="main Coverage Results" MODIFIED="1584394212865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practica_sistema_tkinter" />
     <SUITE FILE_PATH="coverage/udemy_python_completo$Clase01_Ventana.coverage" NAME="Clase01_Ventana Coverage Results" MODIFIED="1583706186575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

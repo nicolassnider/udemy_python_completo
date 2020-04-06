@@ -1,0 +1,5 @@
+pip install Django
+pipenv run django-admin startproject web_personal
+pipenv run python manage.py startapp core
+pipenv run python manage.py migrate
+pipenv run python manage.py runserver
